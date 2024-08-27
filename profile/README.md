@@ -51,7 +51,7 @@ We work with cutting-edge technologies including:
 
 ## Join Our Team
 
-We're always looking for talented individuals to join our team. Check out our [careers page](link_to_your_careers_page) for current openings.
+TODO: We're always looking for talented individuals to join our team. Check out our [careers page](link_to_your_careers_page) for current openings.
 
 ## Contact Us
 
